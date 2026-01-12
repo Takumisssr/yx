@@ -1,0 +1,7 @@
+{
+  "name": "FaceAura - AI Facial Aesthetics Analyzer",
+  "description": "A high-end professional facial aesthetics analysis tool that evaluates 'Three Proportions and Five Eyes' using Gemini Vision AI, providing detailed beauty reports and enhancement suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
